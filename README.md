@@ -1,4 +1,16 @@
-sudo apt-add-repository 'deb http://security.debian.org/debian-security stretch/updates main'
 
 
-sudo apt-get install software-properties-common
+
+curl -sL https://deb.nodesource.com/setup_10.x -o nodesource_setup.sh
+
+
+
+sudo bash nodesource_setup.sh
+
+
+
+sudo apt-get install nodejs
+
+
+
+sudo npm install -g pm2
