@@ -1,16 +1,9 @@
 
 
 
-curl -sL https://deb.nodesource.com/setup_10.x -o nodesource_setup.sh
+git clone https://github.com/altafjava/spring-boot-test.git
 
 
 
-sudo bash nodesource_setup.sh
 
-
-
-sudo apt-get install nodejs
-
-
-
-sudo npm install -g pm2
+cd spring-boot-test/
