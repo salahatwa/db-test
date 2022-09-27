@@ -1,4 +1,1 @@
-# db-test
-test create repo
-
-https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh
+sudo apt-add-repository 'deb http://security.debian.org/debian-security stretch/updates main'
