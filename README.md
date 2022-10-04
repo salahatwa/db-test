@@ -1,9 +1,8 @@
 
 
 
-git clone https://github.com/altafjava/spring-boot-test.git
 
 
+https://medium.com/@vngauv/from-github-to-gce-automate-deployment-with-github-actions-27e89ba6add8
 
 
-cd spring-boot-test/
